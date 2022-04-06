@@ -1,0 +1,28 @@
+id: P9A5ABC55
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13318
+  instance_id: http://purl.bdrc.io/resource/IE3JT13318
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - ཀརྨ་པ་ཆེན་པོ་བཅོ་ལྔ་པའི་གསུང་ལས་སྤར་དུ་བཞུགས་པའི་གླེགས་བམ་རྣམས་ཀྱི་དཀར་ཆག
+  alt_title:
+    bo:
+    - འཇིག་རྟེན་དབང་ཕྱུག་དཔལ་ཀརྨ་པ་ཆེན་པོ་བཅོ་ལྔ་པའི་གསུང་གི་གསང་བ་བསམ་གྱིས་མི་ཁྱབ་པ་ལས་ངོ་མཚར་སྤར་དུ་བཞུགས་པའི་གླེགས་བམ་རྣམས་ཀྱི་དཀར་ཆག་ཆོས་ཚུལ་རྣམ་པར་འབྱེད་པའི་ཟླ་སྣང་།
+  author: http://purl.bdrc.io/resource/P937
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    5aaf64381a764f76a861a1e1edb07641:
+      title: ༈རྒྱལ་དབང་མཁའ་ཁྱབ་རྡོ་རྗེའི་བཀའ་འབུམ།
+      volume_number: 1
+      base_file: UT3JT13318_001_0001.txt
+      reference: http://purl.bdrc.io/resource/VL307D6981CAF8B00B
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:20:42.249405'
+last_modified_at: '2021-12-22T11:20:42.249411'
